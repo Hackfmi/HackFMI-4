@@ -10,6 +10,14 @@
 
 [За пример, може да разгледаш списъка с менторите от HackFMI 3](https://github.com/Hackfmi/Organization-Details/blob/master/mentors.md)
 
+### Мирослав Петров
+
+Senior Developer @TechHuddle
+
+4+ години опит в уеб девелъпмънта и в последно време по-насочено към E-commerce. Създател на редица водещи български онлайн магазини. 
+
+bg.linkedin.com/pub/miroslav-petrov/67/219/a44/
+
 ## Ментори от Imperia Online
 
 ### Тихомир Томов
