@@ -77,3 +77,13 @@ Software Developer @Telerik
 
 * Twitter - @PavelKolev7
 * https://www.linkedin.com/pub/pavel-kolev
+
+### Живко Драганов
+
+Senior Software Engineer @TechHuddle
+
+Професинален опит с web и cloud базираните решения. Agile evangelist. Интерес в системната администрация, управлението на проекти и софтуерно предприемачество. В сферата на игрите предпочитания към алгоритмичните и математически проблеми. В свободното си време обича да играе спортен бридж.
+
+![Живко Драганов](/metnor-images/zhivko_draganov.jpg).	
+
+* [LinkedIn](linkedin.com/pub/zhivko-draganov)
