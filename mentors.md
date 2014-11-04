@@ -64,3 +64,16 @@ Junior Game Designer @Imperia Online
 ![Христо Петков](https://raw.githubusercontent.com/Hackfmi/HackFMI-4/master/mentor-images/hristo_petkov.jpg)
 
 http://bg.linkedin.com/pub/hristo-petkov/31/832/1b4
+
+## Други
+
+### Павел Колев
+
+Software Developer @Telerik
+
+Фен на всички web related технологии, с най - голяма страст към JavaScript. В Телерик работи по платформа за създаване на хибридни мобилни проложения. През свободното си време обича да води лекции, главно в академията на Телерик, както и да изпробва различни настолни игри.
+
+![Павел Колев](https://raw.githubusercontent.com/Hackfmi/HackFMI-4/master/mentor-images/pavel_kolev.jpg)
+
+* Twitter - @PavelKolev7
+* https://www.linkedin.com/pub/pavel-kolev
