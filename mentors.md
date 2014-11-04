@@ -86,4 +86,4 @@ Senior Software Engineer @TechHuddle
 
 ![Живко Драганов](mentor-images/zhivko_draganov.jpg).	
 
-* [LinkedIn](linkedin.com/pub/zhivko-draganov)
+* [LinkedIn](https://linkedin.com/pub/zhivko-draganov)
