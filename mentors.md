@@ -10,14 +10,6 @@
 
 [За пример, може да разгледаш списъка с менторите от HackFMI 3](https://github.com/Hackfmi/Organization-Details/blob/master/mentors.md)
 
-### Мирослав Петров
-
-Senior Developer @TechHuddle
-
-4+ години опит в уеб девелъпмънта и в последно време по-насочено към E-commerce. Създател на редица водещи български онлайн магазини. 
-
-bg.linkedin.com/pub/miroslav-petrov/67/219/a44/
-
 ## Ментори от Imperia Online
 
 ### Тихомир Томов
@@ -73,6 +65,30 @@ Junior Game Designer @Imperia Online
 
 http://bg.linkedin.com/pub/hristo-petkov/31/832/1b4
 
+## Метори от Tech Huddle
+
+### Мирослав Петров
+
+Senior Developer @TechHuddle
+
+4+ години опит в уеб девелъпмънта и в последно време по-насочено към E-commerce. Създател на редица водещи български онлайн магазини.
+
+![Мирослав Петров](mentor-images/miro91.jpg).
+
+
+bg.linkedin.com/pub/miroslav-petrov/67/219/a44/
+
+### Живко Драганов
+
+Senior Software Engineer @TechHuddle
+
+Професинален опит с web и cloud базираните решения. Agile evangelist. Интерес в системната администрация, управлението на проекти и софтуерно предприемачество. В сферата на игрите предпочитания към алгоритмичните и математически проблеми. В свободното си време обича да играе спортен бридж.
+
+![Живко Драганов](mentor-images/zhivko_draganov.jpg).
+
+* [LinkedIn](https://linkedin.com/pub/zhivko-draganov)
+
+
 ## Други
 
 ### Павел Колев
@@ -85,13 +101,3 @@ Software Developer @Telerik
 
 * Twitter - @PavelKolev7
 * https://www.linkedin.com/pub/pavel-kolev
-
-### Живко Драганов
-
-Senior Software Engineer @TechHuddle
-
-Професинален опит с web и cloud базираните решения. Agile evangelist. Интерес в системната администрация, управлението на проекти и софтуерно предприемачество. В сферата на игрите предпочитания към алгоритмичните и математически проблеми. В свободното си време обича да играе спортен бридж.
-
-![Живко Драганов](mentor-images/zhivko_draganov.jpg).	
-
-* [LinkedIn](https://linkedin.com/pub/zhivko-draganov)
