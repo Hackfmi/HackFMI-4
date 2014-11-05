@@ -88,6 +88,15 @@ Senior Software Engineer @TechHuddle
 
 * [LinkedIn](https://linkedin.com/pub/zhivko-draganov)
 
+### Ивайло Блажев
+
+WebGL Developer @Techhuddle
+
+Над 7 години опит в разработката на различни десктоп и уеб платформи с различни технологии Delphi, .NET, JavaScript. Фен на компютърната графика и machine learning algorithms. От скоро се занимава и професионално с графика като WebGL Developer за MapleSoft. През свободното време - бира, ски, планински колела, бордови игри.
+
+![Ивайло Блажев](https://avatars3.githubusercontent.com/u/3081605?v=2&s=460)
+
+* https://www.linkedin.com/pub/ivailo-blazhev/
 
 ## Други
 
@@ -101,14 +110,3 @@ Software Developer @Telerik
 
 * Twitter - @PavelKolev7
 * https://www.linkedin.com/pub/pavel-kolev
-* 
-
-###Ивайло Блажев
-
-WebGL Developer @Techhuddle
-
-Над 7 години опит в разработката на различни десктоп и уеб платформи с различни технологии Delphi, .NET, JavaScript. Фен на компютърната графика и machine learning algorithms. От скоро се занимава и професионално с графика като WebGL Developer за MapleSoft. През свободното време - бира, ски, планински колела, бордови игри. 
-
-![Ивайло Блажев](https://avatars3.githubusercontent.com/u/3081605?v=2&s=460)
-
-* https://www.linkedin.com/pub/ivailo-blazhev/
