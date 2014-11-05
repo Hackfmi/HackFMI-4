@@ -2,11 +2,11 @@
 
 Ако ще пускаш pull request към този списък, ще се радваме, ако включиш информация за:
 
-* Имената
-* Описание с опит, технологии и области, в които си добър (няколко параграфа)
-* В коя компания работиш
-* Социални връзки - Twitter / GitHub
-* Някаква връзка към твоя снимка
+* Живко Руменов Драганов
+* Java(Spring, Hibernate), Ruby on Rails, AngularJS, Linux/Unix
+* Senior Software Engineer at TechHuddle
+* https://github.com/zdraganov | http://lnkd.in/ahFFct
+* В двете връзки по-горе има
 
 [За пример, може да разгледаш списъка с менторите от HackFMI 3](https://github.com/Hackfmi/Organization-Details/blob/master/mentors.md)
 
@@ -77,3 +77,13 @@ Software Developer @Telerik
 
 * Twitter - @PavelKolev7
 * https://www.linkedin.com/pub/pavel-kolev
+
+### Живко Драганов
+
+Senior Software Engineer @TechHuddle
+
+Професинален опит с web и cloud базираните решения. Agile evangelist. Интерес в системната администрация, управлението на проекти и софтуерно предприемачество. В сферата на игрите предпочитания към алгоритмичните и математически проблеми. В свободното си време обича да играе спортен бридж.
+
+![Живко Драганов](mentor-images/zhivko_draganov.jpg).	
+
+* [LinkedIn](https://linkedin.com/pub/zhivko-draganov)
