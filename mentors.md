@@ -126,6 +126,10 @@ Sidney has developed good interpersonal skills, being able to communicate effect
 
 A positive person who enjoys working on difficult and challenging tasks as this is a way for personal and professional improvement.
 
+**Social Links:**
+
+* https://plus.google.com/+SidneyKamalElAgibMahmoud/posts
+* https://twitter.com/sidneyelagib
 
 **Technologies:** Java, JSP, HTML, CSS, AJAX, Javascript, jQuery, PHP, Ant, MySQL
 
