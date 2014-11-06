@@ -155,6 +155,38 @@ Senior Business Analyst, Ph.D. @Experian
 
 14 годишен опит в обработката на данни, моделирането, оптимизацията, Калмановата филтрация, числените методи и др. Работил е в петролната индустрия, спътниковата комуникация, пазарния сектор и финансовата индустрия. Основно се занимава с разработване на алгоритми готови за имплементация в реални системи в съответните области.
 
+## Ментори от ChoboLabs
+
+### Румен Златев
+
+![Румен Златев](mentor-images/rumen_zlatev.jpg)
+
+**Good at:**
+
+* Game Development
+* C++
+* Unity3D
+* GUI
+
+**Social:**
+
+* LinkedIN: http://bg.linkedin.com/pub/rumen-zlatev/79/362/709
+
+### Петър Добрев
+
+![Петър Добрев](mentor-images/petar_dobrev.jpg)
+
+**Good at:**
+
+* Mobile game devеlopment
+* Multiplayer
+* C++
+* HTML5/JS gamedev
+
+**Social:**
+
+* LinkedIN: https://www.linkedin.com/profile/view?id=15420464
+
 ## Други
 
 ### Павел Колев
