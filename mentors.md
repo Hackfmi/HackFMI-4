@@ -203,6 +203,62 @@ Currently Team Lead and Expert Level Engineer at Obecto - a boutique software de
 
 Svetlin is knowledgeable in many programming languages, software architecture, database design and mobile development.
 
+## Ментори от Facebook
+
+### Marina Moreno
+
+![Marina Moreno](mentor-images/marina.jpg)
+
+University Strategic Sourcing Specialist
+
+### Alexey Maykov
+
+![Alexey Maykov](mentor-images/alexey.jpg)
+
+Software Engineer at Facebook, Seattle office.
+
+**Good at:**
+
+* C++
+* Backend infrastructure
+
+### Ivan Ivanov
+
+![Ivan Ivanov](mentor-images/ivan.jpg)
+
+Software Engineer at Facebook, London office
+
+**Good at:**
+
+* Problem solving
+* Open Source Software
+* Optimization, algorithms and data structures
+* Python, Java, C\C++, Bash, JavaScript, PHP(Hack), Haskell, etc.
+* Databases
+* Version control systems
+* Linux ecosystem, scripting and automation                                     
+
+**Social:**
+
+* Facebook account: https://www.facebook.com/profile.php?id=580159902
+* GitHub account: https://github.com/IvanIvanov
+
+### Nedyalko Prisadnikov
+
+![Nedyalko Prisadnikov](mentor-images/nedyalko.jpg)
+
+Software Engineer at Facebook London
+Studied in Sofia University between 2007 and 2011
+
+**Good at:**
+
+* Python
+* C++
+* Java
+* algorithms
+* machine learning
+* PHP(Hack)
+
 ## Други
 
 ### Павел Колев
