@@ -191,6 +191,18 @@ Senior Business Analyst, Ph.D. @Experian
 
 * LinkedIN: https://www.linkedin.com/profile/view?id=15420464
 
+## Ментори от Obecto
+
+### Svetlin Arabadjiev
+
+![Svetlin Arabadjiev](mentor-images/svetlin_arabadjiev.jpg)
+
+Professional software engineer with more than 10 years of experience, from which 4 years as Studio Manager of Gameloft Bulgaria.
+
+Currently Team Lead and Expert Level Engineer at Obecto - a boutique software development company that has helped many startups implement ideas ranging from time-sensitive video content distribution to operation of hydrothermal carbonization plants.
+
+Svetlin is knowledgeable in many programming languages, software architecture, database design and mobile development.
+
 ## Други
 
 ### Павел Колев
