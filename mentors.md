@@ -98,6 +98,45 @@ WebGL Developer @Techhuddle
 
 * https://www.linkedin.com/pub/ivailo-blazhev/
 
+## Ментори от Musala Soft
+
+## Nikola Bogdanov
+
+![Nikola Bogdanov](mentor-images/nikola.bogdanov.jpg)
+
+Currently making PHD in Sofia University in direction Agile processes, methodologies and project management.
+
+Nikola has been working in Musala Soft for seven year and is in the Software Engineering area for more than 8 year, working with some of the biggest companies in IT.
+
+He is lecturing his own course for Agile Methodologies for master students in Sofia University and participating in different forums and events presenting different topics in the project.
+
+**Technologies:** Java, JEE, Spring, JSF, Struts, Ruby on Rails, Oracle, DB2, MS SQL, Web Services, HTML5, JS3, CSS3, JQuery, AngularJS, Dojo
+
+## Sidney El Agib
+
+![Nikola Bogdanov](mentor-images/Sidney.El_Agib.jpg)
+
+Sidney is a highly-motivated professional with diverse multinational experience.
+
+During his career of 4 years of experience in software development and IT, he has specialized in a wide set of different technologies and approaches for handling specific customer needs and critical issues.
+
+Sidney has focus on web-based solutions and has extensive experience in both back-end and front-end. (Thanks to his education he has acquired considerable knowledge in web development, web design, online business and online advertisement.)
+
+Sidney has developed good interpersonal skills, being able to communicate effectively with various kinds of people and customers. He has also been exposed to different working processes and methodologies which has improved his workflow considerably.
+
+A positive person who enjoys working on difficult and challenging tasks as this is a way for personal and professional improvement.
+
+
+**Technologies:** Java, JSP, HTML, CSS, AJAX, Javascript, jQuery, PHP, Ant, MySQL
+
+## Валерия Браянова
+
+![Nikola Bogdanov](mentor-images/valeriya_brayanova_mds_big.jpg)
+
+Професионaлен опит с web прогрaмирaне (Java, Spring, J2EE, JavaScript, JQuery).
+
+В МусaлaСофт рaботи по бизнес web проекти. Свободно време - бирa, бордови игри, книги.
+
 ## Други
 
 ### Павел Колев
