@@ -100,7 +100,7 @@ WebGL Developer @Techhuddle
 
 ## Ментори от Musala Soft
 
-## Nikola Bogdanov
+### Nikola Bogdanov
 
 ![Nikola Bogdanov](mentor-images/nikola.bogdanov.jpg)
 
@@ -112,7 +112,7 @@ He is lecturing his own course for Agile Methodologies for master students in So
 
 **Technologies:** Java, JEE, Spring, JSF, Struts, Ruby on Rails, Oracle, DB2, MS SQL, Web Services, HTML5, JS3, CSS3, JQuery, AngularJS, Dojo
 
-## Sidney El Agib
+### Sidney El Agib
 
 ![Nikola Bogdanov](mentor-images/Sidney.El_Agib.jpg)
 
@@ -129,13 +129,31 @@ A positive person who enjoys working on difficult and challenging tasks as this 
 
 **Technologies:** Java, JSP, HTML, CSS, AJAX, Javascript, jQuery, PHP, Ant, MySQL
 
-## Валерия Браянова
+### Валерия Браянова
 
 ![Nikola Bogdanov](mentor-images/valeriya_brayanova_mds_big.jpg)
 
 Професионaлен опит с web прогрaмирaне (Java, Spring, J2EE, JavaScript, JQuery).
 
 В МусaлaСофт рaботи по бизнес web проекти. Свободно време - бирa, бордови игри, книги.
+
+## Experian
+
+### Александър Телбиз
+
+![Александър Телбиз](mentor-images/AlexanderTelbiz.jpg)
+
+Business Support Analyst @ Experian
+
+4 години опит в игровата индустрия, главно в насока QA devtester/playtester, работил за Ubisoft (Assassin’s Creed: Liberation), Gameloft (множество заглавия) и Masthead (Earthrise). Интереси има също така към игрови и левъл дизайн, занимава се любителски с правене на игри, 20 години опит в играенето на компютърни и видео игри на любителско и полу-професионално (без основен спонсор). Има също така опит с бордови, ролеви, настолни и книги-игри.
+
+### Александър Ефремов
+
+![Александър Телбиз](mentor-images/AlexanderEfremov.jpg)
+
+Senior Business Analyst, Ph.D. @Experian
+
+14 годишен опит в обработката на данни, моделирането, оптимизацията, Калмановата филтрация, числените методи и др. Работил е в петролната индустрия, спътниковата комуникация, пазарния сектор и финансовата индустрия. Основно се занимава с разработване на алгоритми готови за имплементация в реални системи в съответните области.
 
 ## Други
 
