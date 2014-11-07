@@ -65,7 +65,7 @@ Junior Game Designer @Imperia Online
 
 http://bg.linkedin.com/pub/hristo-petkov/31/832/1b4
 
-## Метори от Tech Huddle
+## Ментори от Tech Huddle
 
 ### Мирослав Петров
 
