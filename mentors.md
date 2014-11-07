@@ -259,6 +259,43 @@ Studied in Sofia University between 2007 and 2011
 * machine learning
 * PHP(Hack)
 
+## Ментори от SAP Labs Bulgaria
+
+### Кристиян Маринов
+
+![Кристиян Маринов](mentor-images/kristiyan_marinov.jpg)
+
+Software Developer / Architect @ SAP
+
+**Good at:**
+* Java/EE (+ ecosystem)
+* Random things here & there
+* Making stuff work
+
+**Social:**
+* Twitter - https://twitter.com/kristiyanm
+* GitHub - https://github.com/pnt
+
+### Георги Фарашев
+
+![Георги Фарашев](mentor-images/georgi_farashev.jpg)
+
+Software Developer @ SAP
+
+**Good at:**
+* C++
+* Java
+* Object-oriented design
+
+**Additional knowledge:**
+* JavaScript
+* Python
+* Git
+* Agile methodologies
+
+**Social:**
+* LinkedIn - bg.linkedin.com/pub/georgi-farashev/a6/56a/942/
+
 ## Други
 
 ### Павел Колев
