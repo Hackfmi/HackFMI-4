@@ -65,7 +65,7 @@ Junior Game Designer @Imperia Online
 
 http://bg.linkedin.com/pub/hristo-petkov/31/832/1b4
 
-## Метори от Tech Huddle
+## Ментори от Tech Huddle
 
 ### Мирослав Петров
 
@@ -97,6 +97,21 @@ WebGL Developer @Techhuddle
 ![Ивайло Блажев](https://avatars3.githubusercontent.com/u/3081605?v=2&s=460)
 
 * https://www.linkedin.com/pub/ivailo-blazhev/
+
+### Константин Константинов
+
+Senior Web Developer @TechHuddle
+
+![Константин Константинов](https://avatars2.githubusercontent.com/u/655541?v=3&s=460)
+
+Над 7 години професионален опит в разработката на уеб приложения. Специализира в бекенд разработката с PHP. Интересува се от проджект мениджмънт, методологии, процеси и практики за разработка на софтуер. Фен на Agile процесите, TDD, continuous integration.
+
+**Technologies:** PHP, Symfony, Zend Framework, Kohana, Laravel, CodeIgniter, Magento, Wordpress, Web services, ORMs, MySQL, PostreSQL, NoSQL, HTML5, CSS3, Javascript, YUI3, jQuery.
+
+**Beliefs:** Agile, TDD, Continous Integration.
+
+http://bg.linkedin.com/in/konstantinkonstantinov
+
 
 ## Ментори от Musala Soft
 
