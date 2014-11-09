@@ -6,7 +6,7 @@
 * Чукундурите
 * Yellow Patka
 * WorkInProgress
-* Alfa
+* Alpha
 * PC Master Race
 * Annata no okaasan
 * Midtown Madness
@@ -54,3 +54,4 @@
 * Ал Гайда
 * Котки в танкове
 * Много Сме Готини
+* Paper Jam
