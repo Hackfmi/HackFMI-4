@@ -2,7 +2,6 @@
 
 * Пишка ни се
 * Diablo
-* One Man Army
 * IDGF (I don't give a fuck)
 * Чукундурите
 * Yellow Patka
@@ -10,10 +9,11 @@
 * Alfa
 * PC Master Race
 * Annata no okaasan
+* Random Name
 
 ## Втора група на презентиране (Общо 10, Започва 18:00)
 
-* Random Name
+* Замъкът на Таласъмите
 * One Shot - One kill
 * Bropunzel
 * 8/3 (Осем-трети)
