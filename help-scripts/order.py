@@ -41,7 +41,7 @@ def print_stats(teams):
 
 teams = open("teams").read().split("\n")
 
-teams = list(filter(lambda x: x != "", teams))
+teams = [team.strip() for team in teams if team.strip() != ""]
 random.shuffle(teams)
 
 groups = to_groups(teams, GROUP_SIZES)
